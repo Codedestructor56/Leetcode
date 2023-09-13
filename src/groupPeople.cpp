@@ -29,7 +29,7 @@ vector<vector<int>> groupThepeople(vector<int>& groups){
     return megagroup;
 }
 
-int main(){
+/*int main(){
     vector<int> group={3,3,3,3,3,1,3};
     vector<int> group2={2,1,3,3,3,2};
     vector<vector<int>> res=groupThepeople(group2);
@@ -40,4 +40,5 @@ int main(){
         }
         cout<<"\n"<<endl;
     };
-}
+}*/
+

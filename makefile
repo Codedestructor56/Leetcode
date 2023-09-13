@@ -1,6 +1,6 @@
 CXX=g++
 CXXFLAGS=-g
-SOURCES=src/groupPeople.cpp src/minDeletions.cpp
+SOURCES=src/groupPeople.cpp src/candy.cpp
 TARGET=build/recbuild
 
 $(TARGET):$(SOURCES)
