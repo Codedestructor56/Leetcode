@@ -26,9 +26,9 @@ int candy(vector<int>& ratings) {
     return sum;
 }
 
-int main(){
+/*int main(){
     vector<int> ratings={1,2,87,87,87,2,1};
     vector<int> ratings2={1,0,2};
     vector<int> ratings3={1,2,2};
     cout<<candy(ratings2)<<endl;
-}
+}*/
